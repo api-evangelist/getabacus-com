@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Abacus is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by menlo-ventures) and added to the network as a stub for full-pipeline profiling.
-- https://getabacus.com
+Abacus is an AI‑powered accounting platform that automates tax preparation, audit tie‑outs, and advisory services for accounting firms. Backed by Menlo Ventures, it integrates document ingestion, AI agents, and secure SOC 2‑compliant hosting to streamline complex returns and improve firm productivity.
+
+**Areas:** Company · Accounting · AI · Tax · Automation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://getabacus.com)
+- [Privacy policy](https://www.getabacus.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/getabacus-com/](https://apis.io/providers/getabacus-com/).
